@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **rishindra-mateti-tech/rishindra-mateti-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 * [cite_start]**Oracle** — Certified Generative AI Professional [cite: 64]
 
 -->
-
+<!--
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -102,7 +102,72 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishindra-mateti-tech&" alt="rishindra-mateti-tech" /></p>
 
 
+-->
 
+# Hey, I'm Rishi 👋
+ 
+I'm a CS grad student at Wright State obsessed with building AI systems that actually work in production — not just demos. Currently interning at ZUZU.AI, where I'm deep in RAG pipelines, agentic architectures, and making LLMs faster and cheaper without sacrificing quality.
+ 
+When I'm not writing code, I'm probably running parking operations analytics for 11,000-person events or thinking about why my retrieval system is returning the wrong document.
+ 
+---
+ 
+## What I'm working on
+ 
+- 🧠 **AI Onboarding Platform @ ZUZU.AI** — Conversational AI with pgvector RAG, Cross-Encoder reranking, and 80%+ latency reduction via semantic caching
+- 🌿 **CUTIeS-IQ** — Skincare intelligence platform (hackathon winner → ML research project → [published paper](https://github.com))
+- 🤖 **Multi-agent systems** — Career guidance agents using Google ADK & Gemini, MCP/A2A architectures
+---
+ 
+## A few things I've shipped
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| [CUTIeS-IQ](https://github.com) | Ingredient-aware skincare recommendations with OCR + NLP | Next.js, FastAPI, XGBoost, TF-IDF |
+| [AI Opportunity Navigator](https://github.com) | Multi-agent career guidance platform | Google ADK, Gemini 2.5, Gradio |
+| [Attention Res U-Net](https://github.com) | Aerial image segmentation — 86.42% accuracy, IEEE published | PyTorch, OpenCV |
+ 
+---
+ 
+## Skills & tools
+ 
+
+Languages     Python · SQL · TypeScript · JavaScript
+AI/ML         RAG · LLM Systems · NLP · Semantic Segmentation · Multi-Agent Workflows
+Frameworks    Next.js · FastAPI · PyTorch · LangChain · HuggingFace · LangChain
+Databases     PostgreSQL · pgvector · Supabase
+Infra         Vercel · CUDA · Git
+
+ 
+---
+ 
+## By the numbers (recent work)
+ 
+- **~35%** better retrieval relevance via Cross-Encoder reranking + query rewriting
+- **80%+** latency reduction through intent-aware fast-path routing
+- **86.42%** segmentation accuracy on aerial imagery (IEEE ESCI-2024)
+- **63.85%** mIoU on the Dubai satellite dataset
+---
+ 
+## Published
+ 
+📄 *Accurate Semantic Segmentation of Aerial Imagery Using Attention Res U-Net Architecture*
+IEEE ESCI-2024 · [DOI: 10.1109/ESCI59607.2024.10497287](https://doi.org/10.1109/ESCI59607.2024.10497287)
+ 
+---
+ 
+## Certified
+ 
+- Google × Kaggle AI Agents Intensive (2025)
+- Oracle Cloud Infrastructure – AI Foundations Associate (2025)
+- Oracle Cloud Infrastructure – Generative AI Professional (2025)
+---
+ 
+## Let's connect
+ 
+📬 rishindra.tech@gmail.com · [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/rishindra-mateti-tech/)) · [Portfolio](www.rishindramateti.omline)
+ 
+> *"Good AI engineering is 10% modeling and 90% making sure the right context reaches the model."*
 
 
 
