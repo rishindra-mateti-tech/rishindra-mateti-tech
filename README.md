@@ -7,7 +7,7 @@ cs grad student by day, ai tinkerer by night.
 
 i enjoy building things that are useful, fast, and occasionally win hackathons.
 
-currently making llms smarter at **zuzu.ai** — working on rag pipelines, retrieval systems, agents, and whatever interesting problem shows up next.
+currently making llms smarter at **zuzu.ai** : working on rag pipelines, retrieval systems, agents, and whatever interesting problem shows up next.
 
 ## what i reach for
 
