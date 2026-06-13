@@ -1,5 +1,58 @@
 
 
+
+# Hi, i'm Rishindra Mateti 👋
+
+cs grad student by day, ai tinkerer by night.
+
+i enjoy building things that are useful, fast, and occasionally win hackathons.
+
+currently making llms smarter at **zuzu.ai** — working on rag pipelines, retrieval systems, agents, and whatever interesting problem shows up next.
+
+## what i reach for
+
+`python` · `typescript` · `next.js` · `fastapi` · `pytorch` · `postgresql` · `langchain`
+
+currently obsessed with:
+
+> agentic systems · rag · multi-agent workflows
+
+## things i've built & broken
+
+### 🏆 CUTIeS-IQ
+
+skincare ai that actually understands ingredients.
+
+started as a hackathon project and later evolved into a machine learning paper.
+
+### 🤖 AI Opportunity Navigator
+
+a multi-agent career guidance platform built with google adk and gemini.
+
+### 🛰️ Aerial Segmentation
+
+attention res u-net for semantic segmentation of aerial imagery — 86.42% accuracy and eventually published at IEEE ESCI 2024.
+
+---
+
+## beyond code
+
+i like learning in public, participating in hackathons, and turning random ideas into side projects.
+
+still convinced that the best way to learn something is to build it.
+
+---
+
+## find me
+
+💼 [linkedin](https://www.linkedin.com/in/rishindra-mateti-tech/)
+
+🌐 [portfolio](https://rishindramateti.online)
+
+📫 rishindra.tech@gmail.com
+
+
+
 <!--
 **rishindra-mateti-tech/rishindra-mateti-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -103,7 +156,7 @@ Here are some ideas to get you started:
 
 
 -->
-
+<!--
 # Hey, I'm Rishi 👋
  
 I'm a CS grad student at Wright State obsessed with building AI systems that actually work in production — not just demos. Currently interning at ZUZU.AI, where I'm deep in RAG pipelines, agentic architectures, and making LLMs faster and cheaper without sacrificing quality.
@@ -168,6 +221,8 @@ IEEE ESCI-2024 · [DOI: 10.1109/ESCI59607.2024.10497287](https://doi.org/10.1109
 📬 rishindra.tech@gmail.com · [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/rishindra-mateti-tech/)) · [Portfolio](www.rishindramateti.omline)
  
 > *"Good AI engineering is 10% modeling and 90% making sure the right context reaches the model."*
+
+-->
 
 
 
