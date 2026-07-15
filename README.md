@@ -46,7 +46,7 @@
                    
                     -   ---
 
-                    ### :first_place_medal: Certifications
+                    ### :mortar_board: Certifications
                     - Google x Kaggle AI Agents Intensive (2025)
                     - - Oracle Cloud Infrastructure - AI Foundations Associate (2025)
                       - - Oracle Cloud Infrastructure - Generative AI Professional (2025)
