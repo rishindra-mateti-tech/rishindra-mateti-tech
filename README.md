@@ -6,11 +6,8 @@ I design and build production-grade AI systems, specializing in multi-agent work
   <a href="https://rishindramateti.online/">
     <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rishindra-mateti-tech">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:rishindra.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:rishindra.mateti@zohomail.com">
+    <img src="https://img.shields.io/badge/Email-rishindra.mateti%40zohomail.com-006699?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 </p>
 
