@@ -1,45 +1,34 @@
-# Hi, I'm Rishindra Mateti
+# Rishindra Mateti
 
-I design and build production-grade AI systems, specializing in multi-agent workflows, optimized RAG pipelines, and low-latency machine learning architectures. Master of Science in Computer Science from Wright State University.
+AI/ML researcher and engineer building reliable, evidence-aware systems. I work where research methods meet practical software: computer vision, privacy-preserving machine learning, retrieval systems, and AI evaluation.
 
-<p align="center">
-  <a href="https://www.rishindramateti.com">
-    <img src="https://img.shields.io/badge/Industry_Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Industry Portfolio" />
-  </a>&nbsp;&nbsp;
-  <a href="https://research.rishindramateti.com/">
-    <img src="https://img.shields.io/badge/Research_Portfolio-005571?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Research Portfolio" />
-  </a>&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0009-5880-8727">
-    <img src="https://img.shields.io/badge/ORCID-0009--0009--5880--8727-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:contact@rishindramateti.com">
-    <img src="https://img.shields.io/badge/Email-contact%40rishindramateti.com-006699?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
-  </a>
-</p>
+| Research | Engineering |
+| --- | --- |
+| Papers, benchmarks, and reproducible experiments on trustworthy AI systems. | Applied systems and developer tools designed to make AI useful in the real world. |
+| [Explore research →](https://research.rishindramateti.com/) | [Explore engineering work →](https://www.rishindramateti.com) |
 
----
+## Research
 
-### Research Publications & Preprints
+- **LLM reliability & evaluation** — benchmarks for schema complexity, tool calling, and evidence-grounded retrieval.
+- **Computer vision** — peer-reviewed work on attention-based semantic segmentation for high-resolution aerial imagery.
+- **Privacy-preserving ML** — differential privacy mechanisms, sensitivity calibration, and privacy–utility trade-offs.
 
-* **[Preprint / Technical Report (2026)]**  
-  **Applied Machine Learning for Cross-Substance Analysis: Psychometric and Demographic Correlates of Consumption Patterns**  
-  *Rishindra Mateti*  
-  Zenodo (CERN Open Science) / Department of Computer Science, Wright State University  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23166995.svg)](https://doi.org/10.5281/zenodo.23166995)  
-  [Paper & Benchmark Repository](https://github.com/rishindra-mateti-tech/applied-machine-learning-cross-substance-analysis) | [DOI: 10.5281/zenodo.23166995](https://doi.org/10.5281/zenodo.23166995)
+Selected work: [IEEE ESCI 2024 publication](https://doi.org/10.1109/ESCI59607.2024.10497287) · [Cross-substance ML technical report](https://doi.org/10.5281/zenodo.23166995) · [Semantic Segmentation repository](https://github.com/rishindra-mateti-tech/Semantic_Segmentation)
 
-* **[Peer-Reviewed IEEE Conference (2024)]**  
-  **Accurate Semantic Segmentation of Aerial Imagery Using Attention Res U-Net Architecture**  
-  *Rishindra Mateti, Nagamani Gonthina, Saikumar Adunuri, Sai Sudeep Allampalli, L V Narasimha Prasad*  
-  IEEE 4th International Conference on Emerging Smart Computing and Informatics (ESCI 2024)  
-  [IEEE Xplore](https://ieeexplore.ieee.org/document/10497287) | [DOI: 10.1109/ESCI59607.2024.10497287](https://doi.org/10.1109/ESCI59607.2024.10497287)
+## Engineering
+
+- **AI systems** — retrieval pipelines, multi-agent workflows, and evaluation-oriented developer tooling.
+- **ML infrastructure** — reproducible experimentation, Python services, and production-minded deployment.
+- **Open-source projects** — tools, prototypes, and research implementations with documentation and runnable code.
+
+Selected work: [CodeStory](https://codestory-dev.vercel.app) · [Contract Fragility benchmark](https://github.com/rishindra-mateti-tech/contract-fragility-schema-complexity-benchmark) · [networKING.agent](https://networking-s-agent.vercel.app)
+
+## Connect
+
+[Research portfolio](https://research.rishindramateti.com/) · [Engineering portfolio](https://www.rishindramateti.com) · [ORCID](https://orcid.org/0009-0009-5880-8727) · [Email](mailto:contact@rishindramateti.com)
 
 ---
 
 <p align="center">
-  <img src="./metrics.svg" alt="Performance & System Metrics" width="800" />
-</p>
-
-<p align="center">
-  <b>"Every line of code is an opportunity to build something that can reach the world."</b>
+  <img src="./metrics.svg" alt="GitHub activity metrics" width="760" />
 </p>
